@@ -1,0 +1,51 @@
+_repo: Three-Hours-after-Marriage_37667
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gay, John
+    birthdate: 1685
+    deathdate: 1732
+    gutenberg_agent_id: '905'
+    url: http://www.gutenberg.org/2009/agents/905
+    wikipedia: http://en.wikipedia.org/wiki/John_Gay
+  - agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+  - agent_name: Arbuthnot, John
+    aliases:
+    - Eleutherus, Philonomus
+    - Arbuthnot, Jean
+    birthdate: 1667
+    deathdate: 1735
+    gutenberg_agent_id: '983'
+    url: http://www.gutenberg.org/2009/agents/983
+    wikipedia: http://en.wikipedia.org/wiki/John_Arbuthnot
+  editor:
+    agent_name: Smith, John Harrington
+    birthdate: 1903
+    deathdate: 1961
+    gutenberg_agent_id: '38982'
+    url: http://www.gutenberg.org/2009/agents/38982
+description: ''
+gutenberg_issued: '2011-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37667'
+  lccn: '62006569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: Three Hours after Marriage
+url: http://www.gutenberg.org/ebooks/37667
