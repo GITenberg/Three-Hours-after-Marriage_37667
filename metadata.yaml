@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '38982'
     url: http://www.gutenberg.org/2009/agents/38982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37667#Three-Hours-after-Marriage
 gutenberg_issued: '2011-10-08'
 gutenberg_type: Text
 identifiers:
